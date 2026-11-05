@@ -14,9 +14,6 @@
 I'm Masoud Noroozi, and I hold a Bachelor's degree in Biomedical Engineering from University of Isfahan. My long-term goal is to become a methodological research scientist or faculty member advancing AI in health. I plan to do this by developing novel AI algorithms for health and medical image processing, neuroscience, and by creating diagnostic tools based on them. I am especially inspired by questions about how algorithmic understanding can refine early identification, therapy strategies, and patient outcomes.
 
 **Interests** · Medical Image Processing· Computer Vision · Deep Learning · Machine Learning · Neuroscience · Public Health
-
-**Now** · Two manuscripts under review; the code for both is already public.
-
 <!-- Optional. Remove the comment markers when you want to share it:
 **Also in progress** · A systematic review and meta-analysis of AI-derived biological organ age.
 -->
