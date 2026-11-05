@@ -86,8 +86,7 @@ Two lightweight architectures × eight losses give 16 base models, fused by six 
 
 ## Get in touch
 
-I welcome collaborations. The quickest route is an issue on the relevant repository, or a message on [LinkedIn](https://www.linkedin.com/in/masoudnoroozi/).
-✉️ 2000noroozi@gmail.com
+I welcome collaborations. The quickest route is an issue on the relevant repository, or by sending an email to ✉️ 2000noroozi@gmail.com.
 
 <br>
 
