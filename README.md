@@ -82,11 +82,12 @@ Two lightweight architectures × eight losses give 16 base models, fused by six 
 
 ## Toolbox
 
-`Python` `PyTorch` `torchvision` `scikit-learn` `SciPy` `scikit-image` `OpenCV` `Kornia` `Captum` `TorchMetrics` `MedPy` `pandas` `Plotly` `Jupyter` `Google Colab`
+`Python` `PyTorch` `torchvision` `TensorFlow` `Keras` `scikit-learn` `SciPy` `scikit-image` `OpenCV` `Kornia` `Captum` `TorchMetrics` `MedPy` `pandas` `Plotly` 
 
 ## Get in touch
 
-I welcome collaborations. The quickest route is an issue on the relevant repository, or by sending an email to ✉️ 2000noroozi@gmail.com.
+I welcome collaborations. The quickest route is an issue on the relevant repository, or by sending an email to
+✉️ 2000noroozi@gmail.com.
 
 <br>
 
