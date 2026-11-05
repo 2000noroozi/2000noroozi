@@ -11,9 +11,9 @@
 
 ## About
 
-I work on deep learning for medical images at the Department of Biomedical Engineering, University of Isfahan: whole-aorta 4D flow MRI, visible-light imaging of the ocular surface, and X-ray left ventriculography. I favour compact, physics-aware models and leakage-controlled validation, and I report results alongside what they cannot show.
+I'm Masoud Noroozi, and I hold a Bachelor's degree in Biomedical Engineering from University of Isfahan. My long-term goal is to become a methodological research scientist or faculty member advancing AI in health. I plan to do this by developing novel AI algorithms for health and medical image processing, neuroscience, and by creating diagnostic tools based on them. I am especially inspired by questions about how algorithmic understanding can refine early identification, therapy strategies, and patient outcomes.
 
-**Interests** · 4D flow MRI · self-supervised representation learning · vessel segmentation · CNN–Transformer hybrids · ensemble learning · calibration and validation design · explainability
+**Interests** · Medical Image Processing· Computer Vision · Deep Learning · Machine Learning · Neuroscience · Public Health
 
 **Now** · Two manuscripts under review; the code for both is already public.
 
@@ -86,8 +86,8 @@ Two lightweight architectures × eight losses give 16 base models, fused by six 
 
 ## Get in touch
 
-I welcome collaborations on cardiovascular flow imaging, ocular imaging and validation methodology for medical AI. The quickest route is an issue on the relevant repository, or a message on [LinkedIn](https://www.linkedin.com/in/masoudnoroozi/).
-<!-- To show an e-mail address, add a line here, e.g.  ✉️ your.name@university.edu -->
+I welcome collaborations. The quickest route is an issue on the relevant repository, or a message on [LinkedIn](https://www.linkedin.com/in/masoudnoroozi/).
+✉️ 2000noroozi@gmail.com
 
 <br>
 
