@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://masoudnoroozi.com/"><img src="assets/chip-website.svg" height="34" alt="Personal Website"></a>
   <a href="https://scholar.google.com/citations?user=L1Na7hzkqpcC&amp;hl=en"><img src="assets/chip-scholar.svg" height="34" alt="Google Scholar"></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57894065200"><img src="assets/chip-scopus.svg" height="34" alt="Scopus"></a>
   <a href="https://www.webofscience.com/wos/author/record/JJC-9920-2023"><img src="assets/chip-wos.svg" height="34" alt="Web of Science"></a>
